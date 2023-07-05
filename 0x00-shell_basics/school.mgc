@@ -1,2 +1,2 @@
-0 string SCHOOL  School data file
-file -m school.magic *
+0 string SCHOOL
+>0 string School data file
