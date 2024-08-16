@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # Tell the story of the file /etc/passwd, using the while loop + IFS
-
 file="/etc/passwd"
 while IFS=: read -r USER PASS ID_USER GROUP INFO HOME_D SHELL
 do
