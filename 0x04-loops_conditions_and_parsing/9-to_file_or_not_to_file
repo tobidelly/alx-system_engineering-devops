@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # Bash script that gives you information about the "holbertonschool" file.
-
 schfile=school
 if [ -e "$schfile" ]
 then
